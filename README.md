@@ -1,2 +1,1 @@
-# rpi_intercom
-
+# Raspberry Pi Based Intercom System
